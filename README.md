@@ -56,7 +56,7 @@ featured_image_url = 'https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA1
 
 ### Mars Hemispheres
 
-* Visit the USGS Astrogeology site [here](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) to obtain high resolution images for each of Mar's hemispheres.
+* Visit the USGS Astrogeology site [here](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) to obtain high resolution images for each of Mars' hemispheres.
 
 * You will need to click each of the links to the hemispheres in order to find the image url to the full resolution image.
 
