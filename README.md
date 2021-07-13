@@ -84,7 +84,7 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
 * Next, create a route called `/scrape` that will import your `scrape_mars.py` script and call your `scrape` function.
 
-  * Store the return value in Mongo as a Python dictionary.
+* Store the return value in Mongo as a Python dictionary.
 
 * Create a root route `/` that will query your Mongo database and pass the mars data into an HTML template to display the data.
 
@@ -104,8 +104,6 @@ To submit your work to BootCampSpot, create a new GitHub repository and upload t
 2. Screenshots of your final application.
 
 3. Submit the link to your new repository to BootCampSpot.
-
-4. Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
 ## Hints
 
